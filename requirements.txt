@@ -1,5 +1,6 @@
 numpy
 matplotlib
-pytorch
+torch
+torchvision
 pandas
 scikit-learn
