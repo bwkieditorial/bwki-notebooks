@@ -4,4 +4,4 @@ Der Bundeswettbewerb Künstliche Intelligenz (www.bw-ki.de) besteht aus drei Run
 
 In den Programmieraufgaben werden die Schüler spielerisch an verschiedene Methoden des maschinellen Lernens herangeführt. Die Aufgabe der Teilnehmenden ist es, Straßenhunde zu diagnostizieren. Dazu liegt ein Datensatz von kranken und gesunden Hunden vor, die mit Hilfe verschiedener Algorithmen klassifiziert werden sollen.
 
-Die Programmieraufgaben sind in der Programmiersprache Python geschrieben und können online gelöst werden. Beim Laden der Binder Notebooks ist mit längeren Wartezeiten zu rechnen.
+Die Programmieraufgaben sind in der Programmiersprache Python geschrieben und können online gelöst werden. In den Aufgaben wird auf externes Informationsmaterial (Python-Tutorials, Libraries...) verlinkt. Für den Inhalt dieser Seiten übernehmen wir keine Verantwortung. Beim Laden der Binder Notebooks ist mit längeren Wartezeiten zu rechnen.
