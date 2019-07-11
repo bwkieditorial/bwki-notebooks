@@ -1,4 +1,4 @@
-# Aufgaben und Lösungen der zweiten Runde des Bundeswettbewerbs Künstliche Intelligenz 2019
+# Aufgaben und Lösungen der ersten Runde des Bundeswettbewerbs Künstliche Intelligenz 2019
 
 Der Bundeswettbewerb Künstliche Intelligenz (www.bw-ki.de) besteht aus drei Runden. In der ersten Runde lösen die teilnehmenden Schüler Quizfragen und Programmieraufgaben zu dem Bereich maschinelles Lernen. Die Programmieraufgaben bauen aufeinander auf, so dass die Teilnehmenden am Ende in der Lage sind komplexe Aufgaben, wie zum Beispiel die Programmierung von tiefen neuronalen Netzen, selbstständig zu lösen. In den Quizfragen werden die wichtigsten Begriffe der künstlichen Intelligenz abgedeckt.
 
