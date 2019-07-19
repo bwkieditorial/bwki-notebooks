@@ -6,13 +6,14 @@ In den Programmieraufgaben werden die Schüler spielerisch an verschiedene Metho
 
 Die Programmieraufgaben sind in der Programmiersprache Python geschrieben und können online gelöst werden. In den Aufgaben wird auf externes Informationsmaterial (Python-Tutorials, Libraries, ...) verlinkt. Für den Inhalt dieser Seiten übernehmen wir keine Verantwortung. Beim Laden der Binder Notebooks ist mit längeren Wartezeiten zu rechnen.
 
-https://gke.mybinder.org/v2/gh/bethgelab/bwki-notebooks/master?filepath=L%C3%B6sungen_Programmieraufgaben/2_1.ipynb
+https://gke.mybinder.org/v2/gh/bethgelab/bwki-notebooks/master?filepath=Programmieraufgaben/2_1.ipynb
+
 https://gke.mybinder.org/v2/gh/bethgelab/bwki-notebooks/master?filepath=L%C3%B6sungen_Programmieraufgaben/2_1_results.ipynb
 
-https://gke.mybinder.org/v2/gh/bethgelab/bwki-notebooks/master?filepath=L%C3%B6sungen_Programmieraufgaben/2_2.ipynb
+https://gke.mybinder.org/v2/gh/bethgelab/bwki-notebooks/master?filepath=Programmieraufgaben/2_2.ipynb
 https://gke.mybinder.org/v2/gh/bethgelab/bwki-notebooks/master?filepath=L%C3%B6sungen_Programmieraufgaben/2_2_results.ipynb
 
-https://gke.mybinder.org/v2/gh/bethgelab/bwki-notebooks/master?filepath=L%C3%B6sungen_Programmieraufgaben/2_3.ipynb
+https://gke.mybinder.org/v2/gh/bethgelab/bwki-notebooks/master?filepath=Programmieraufgaben/2_3.ipynb
 https://gke.mybinder.org/v2/gh/bethgelab/bwki-notebooks/master?filepath=L%C3%B6sungen_Programmieraufgaben/2_3_results.ipynb
 
 https://gke.mybinder.org/v2/gh/bethgelab/bwki-notebooks/master?filepath=L%C3%B6sungen_Programmieraufgaben/2_4.ipynb
